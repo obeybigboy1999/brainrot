@@ -1,0 +1,2 @@
+# brainrot
+Auto-generated repository
